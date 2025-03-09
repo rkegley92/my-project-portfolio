@@ -13,3 +13,5 @@ Code and files for my portfolio
    - Uses cnn to recognize street numbers
 6. Sentiment analysis
    - uses LLM to analyze if feedback is positve, neutral, or negative
+7. Proof of concept market simulation
+   - Concept of a virtual market simulation. *Note* this is bare minimum the full version involves multiple aspects of AI. 
