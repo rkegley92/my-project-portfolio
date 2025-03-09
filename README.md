@@ -15,3 +15,5 @@ Code and files for my portfolio
    - uses LLM to analyze if feedback is positve, neutral, or negative
 7. Proof of concept market simulation
    - Concept of a virtual market simulation. *Note* this is bare minimum the full version involves multiple aspects of AI. 
+8. LSTM River flow prediction
+   - long term short term memory neural network for predicting the movement of rivers. *Note* this project is in progress. 
