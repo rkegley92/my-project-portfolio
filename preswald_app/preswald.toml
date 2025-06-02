@@ -1,0 +1,23 @@
+[project]
+title = "World Cities Dashboard"
+version = "0.1.0"
+port = 8501
+slug = "world-cities"
+entrypoint = "hello.py"
+
+[branding]
+name = "World Cities Dashboard"
+logo = "images/logo.png"
+favicon = "images/world_icon.png"
+primaryColor = "#1476D1"
+
+[data.sample_csv]
+type = "csv"
+path = "data/sample.csv"
+[data.worldcities]     
+type = "csv"
+path = "data/worldcities.csv"
+
+[logging]
+level = "INFO"
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s" 
